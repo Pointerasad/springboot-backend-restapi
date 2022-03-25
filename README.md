@@ -3,8 +3,9 @@
 2.Build tools - > Maven 
 3.DB -> Mysql 
 
-Plz download or clone this project (two branch's , like master and development)
-When you run this project , not need to create table individualy (just create schema based on application propertise file)
+-> Plz download or clone this project (two branch's , like master and development)
+-> When you run this project , not need to create table individualy (just create schema based on application propertise file)
+-> after run project then plz try to run sql query 
 Below three controller control all api request
 1. UserController (user related api request bind)
 2. UserProgressController (user progress related api request bind)
